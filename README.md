@@ -13,3 +13,5 @@ To use this project you will need:
     In Eclipse click import project to your workspace.
 
 Tests are grouped in path: Selenium\src\test\java\Ecommerce\Selenium You can run each test by going to the code and right click anywhere then on the menu that appearse click on Run As > TestNG Test
+
+Go through Test Plan Document pdf file where I have written Test plan, Test cases and Test strategy.
