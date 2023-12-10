@@ -12,4 +12,4 @@ To use this project you will need:
     Clone with Git Bash
     In Eclipse click import project to your workspace.
 
-Tests are grouped in path: /TestAutomationEcommerceSite/src/test/java/tests You can run each test by going to the code and right click anywhere then on the menu that appearse click on Run As > TestNG Test
+Tests are grouped in path: Selenium\src\test\java\Ecommerce\Selenium You can run each test by going to the code and right click anywhere then on the menu that appearse click on Run As > TestNG Test
